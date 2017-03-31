@@ -1,2 +1,2 @@
 # first page
-在线简历地址：http://jeromehan.github.io
+在线简历地址：https://jeromehan.github.io/
