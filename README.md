@@ -1,2 +1,2 @@
 # resume page
-在线简历地址：https://jeromehan.github.io/
+在线博客地址：https://jeromehan.github.io/
